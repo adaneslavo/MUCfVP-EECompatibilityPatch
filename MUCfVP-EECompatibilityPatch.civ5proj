@@ -7,11 +7,9 @@
     <Guid>c4b66c8f-961c-44ae-af33-e66245a50e3a</Guid>
     <ModVersion>2</ModVersion>
     <Stability>Stable</Stability>
-    <Teaser>Compatibility Patch for MUCfVP and EE mods.
-MUCfVP v31
-EE v6</Teaser>
+    <Teaser>Compatibility Patch for MUCfVP and EE mods.</Teaser>
     <Description>Compatibility Patch for MUCfVP and EE mods.
-MUCfVP v31.2
+MUCfVP v32
 EE v1.0.1</Description>
     <Authors>Adam</Authors>
     <SpecialThanks>
