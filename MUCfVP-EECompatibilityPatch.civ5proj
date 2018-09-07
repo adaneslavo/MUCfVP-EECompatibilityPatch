@@ -5,7 +5,7 @@
     <ProjectGuid>{6c8ae19e-8f9b-4027-af29-03bf815720d5}</ProjectGuid>
     <Name>MUCfVP-EE Compatibility Patch</Name>
     <Guid>c4b66c8f-961c-44ae-af33-e66245a50e3a</Guid>
-    <ModVersion>3</ModVersion>
+    <ModVersion>4</ModVersion>
     <Stability>Stable</Stability>
     <Teaser>Compatibility Patch for MUCfVP and EE mods.</Teaser>
     <Description>Compatibility Patch for MUCfVP and EE mods.

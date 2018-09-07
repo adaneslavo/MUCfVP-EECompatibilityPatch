@@ -2,6 +2,11 @@
 -- Author: adan_eslavo
 -- DateCreated: 29/4/2018
 --------------------------------------------------------------
+v4:
+- fixed:
+	- deleted Sofa's changes,
+	- Hakkapeliitta ==> added GoodyHutUpgrade update.
+
 v3:
 - updated:
 	-adjusted to VP changes:
